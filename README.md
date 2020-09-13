@@ -36,7 +36,7 @@ GIF created with [Recordit](https://recordit.co/).
 
 Challenges I encountered:
 1. Finding where the different features in Xcode (i.e. Assistant Editor) were since the Xcode version I have is different than the version in the tutorial.
-2. Being creative with the UI. My creativity is limited because my iOS dev skills are too.
+2. Being creative with the UI. My creativity is limited because my iOS dev skills are too. Not for long though!
 
 ## License
 
