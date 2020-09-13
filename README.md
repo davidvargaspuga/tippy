@@ -28,17 +28,19 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/73TRsCvwsY.gif'/>
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [Recordit](https://recordit.co/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Challenges I encountered:
+1. Finding where the different features in Xcode (i.e. Assistant Editor) were since the Xcode version I have is different than the version in the tutorial.
+2. Being creative with the UI. My creativity is limited because my iOS dev skills are too.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] [David Vargas Puga]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
